@@ -1,0 +1,76 @@
+[
+
+    {
+        "id": 1,
+        "title": "Lionel Johnson",
+        "description":"A miniature painted for a friend",
+        "game": "Warhammer",
+        "edition": null,
+        "model_race": "human",
+        "model_gender": "male",
+        "generic_descriptor": "primarch",
+        "primary_color": "#rrggbb",
+        "secondary_color": "#rrggbb",
+        "tertiary_color": "#rrggbb",
+        "kit_bashed": false,
+        "paints_used":{
+            "pure_colors": [
+                {"id": 1},
+                {"id": 2}
+            ],
+            "mixed_colors":[
+                {"id": 1},
+                {"id": 2}
+            ]
+        },
+        "images":{
+            "id": 1,
+            "src": "www.blahblah.com",
+            "progress": "Complete",
+            "date": "new Date()",
+            "description": "And here's the finished piece",
+            "tags": ["40k", "warhammer", "a tag"],
+            "likes": 50,
+            "comments": [
+                {"id": 3}    
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "title": "Harlequin Troupe Master",
+        "description":"The leader of a small harlequin troupe",
+        "game": "Warhammer",
+        "edition": "8th",
+        "model_race": "Aeldari",
+        "model_gender": "male",
+        "generic_descriptor": "creepy-clown guys",
+        "primary_color": "#rrggbb",
+        "secondary_color": "#rrggbb",
+        "tertiary_color": "#rrggbb",
+        "kit_bashed": false,
+        "paints_used":{
+            "pure_colors": [
+                {"id": 3},
+                {"id": 5}
+            ],
+            "mixed_colors":[
+                {"id": 6},
+                {"id": 4}
+            ]
+        },
+        "images":{
+            "id": 2,
+            "src": "www.blahblah.com",
+            "progress": "Complete",
+            "date": "new Date()",
+            "description": "HE SO KEWL",
+            "tags": ["40k", "warhammer", "harlequin", "clown"],
+            "likes": 50,
+            "comments": [
+                {"id": 3}    
+            ]
+        }
+    }
+
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "color_nickname": "Tau-Army Yellow",
+        "color_family": ["Yellow", "Tan"],
+        "colors_mixed": 
+            [
+                {
+                    "id": 1,
+                    "ratio": 60
+                },
+                {
+                    "id": 3,
+                    "ratio": 40
+                }
+            ],
+        "color_notes": "Tones down the brighter yellow.  Base for my Tau"
+    },
+    {
+        "id": 2,
+        "color_nickname": "Patina",
+        "color_family": ["Copper", "Turqoise"],
+        "colors_mixed": 
+            [
+                {
+                    "id": 5,
+                    "ratio": 75
+                },
+                {
+                    "id": 4,
+                    "ratio": 25
+                }
+            ],
+        "color_notes": "Sounds like an odd combination.  Hear me out.  Don't mix it all the way and slap it on thick.  Get some of the Royal Cloak showing through and it's pretty cool."
+    },
+    {
+        "id": 3,
+        "color_nickname": "Rose Shadow",
+        "color_family": ["Dark Red"],
+        "colors_mixed": 
+            [
+                {
+                    "id": 4,
+                    "ratio": 20
+                },
+                {
+                    "id": 2,
+                    "ratio":20
+                },
+                {
+                    "id": 6,
+                    "ratio": 60
+                }
+            ],
+        "color_notes": "Sounds like an odd combination.  Hear me out.  Don't mix it all the way and slap it on thick.  Get some of the Royal Cloak showing through and it's pretty cool."
+    }
+
+]

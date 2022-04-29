@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "color_name": "Sunburst Yellow", 
+        "color_family": ["Yellow"],
+        "brand": "Citadel",
+        "color_nickname": "Flash Gitz Yellow",
+        "color_notes": 
+            [
+                {
+                    "note_content": "Thin, takes a lot of layers",
+                    "note_author": 1,
+                    "note_date": "04-28-2022",
+                    "note_likes": 3
+                } 
+            ]
+    },
+    {
+        "id": 2,
+        "color_name": "Caliban Green", 
+        "color_family": ["Green"],
+        "brand": "Citadel",
+        "color_nickname": null,
+        "color_notes": 
+            [
+
+                {
+                    "note_content": "Paint has good coverage.",
+                    "note_author": 1,
+                    "note_date": "04-28-2022",
+                    "note_likes": 3
+                }, 
+                {
+                    "note_content": "Takes a fair bit of water to glaze with.",
+                    "note_author": 2,
+                    "note_date": "04-28-2022",
+                    "note_likes": 2          
+                } 
+            ]
+    },  
+    {
+        "id": 3,
+        "color_name": "Moon Dust", 
+        "color_family": ["Yellow", "Tan"],
+        "brand": "Army Painter",
+        "color_nickname": null,
+        "color_notes": 
+            [
+                {
+                    "note_content": "Veeeeeery thin.  Also needs a LOT of shaking before use (more than other paints)",
+                    "note_author": 1,
+                    "note_date": "04-28-2022",
+                    "note_likes": 10
+                } 
+            ]
+    },
+    {
+        "id": 4,
+        "color_name": "Royal Cloak", 
+        "color_family": ["Teal", "Aqua", "Blue"],
+        "brand": "Army Painter",
+        "color_nickname": "The Best",
+        "color_notes": 
+            [
+                {
+                    "note_content": "Best Color EVER",
+                    "note_author": 1,
+                    "note_date": "04-29-2022",
+                    "note_likes": 1034
+                } 
+            ]
+    },
+    {
+        "id": 5,
+        "color_name": "AfterBurner", 
+        "color_family": ["Copper", "Metallic", "Color-shift"],
+        "brand": "Turbo Dork",
+        "color_nickname": "Copper shift",
+        "color_notes": 
+            [
+                {
+                    "note_content": "So cool",
+                    "note_author": 2,
+                    "note_date": "04-29-2022",
+                    "note_likes": 56
+                } 
+            ]
+    },
+    {
+        "id": 6,
+        "color_name": "Muted Pink", 
+        "color_family": ["Pink", "Fuschia"],
+        "brand": "Liquitex",
+        "color_nickname": null,
+        "color_notes": 
+            [
+                
+            ]
+    }
+]
