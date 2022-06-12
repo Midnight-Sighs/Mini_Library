@@ -7,7 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "test":"jest"
   },
   "dependencies": {
     "axios": "^0.27.2",
@@ -21,7 +22,11 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@cucumber/cucumber": "^8.2.1",
-    "jest": "^28.0.2"
+    "jest": "^28.0.2",
+    "react-test-renderer": "^18.1.0"
+  },
+  "jest": {
+    "preset": "react-native"
   },
   "private": true
 }
